@@ -1,0 +1,15 @@
+{
+  "name": "promises-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doron Segal <doron2402@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.8.2",
+    "superagent": "^0.21.0"
+  }
+}
