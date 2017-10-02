@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^2.8.2",
-    "superagent": "^0.21.0"
+    "superagent": "^2.0.0"
   }
 }
